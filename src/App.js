@@ -3,7 +3,7 @@ import Trail from "./components/trail/Trail";
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <Navbar/>
       <Trail/>
     </div>
